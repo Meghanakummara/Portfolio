@@ -71,7 +71,7 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/Meghanakummara`} target="_blank" rel="noopener noreferrer">
+          <a href={`"https://github.com/Meghanakummara"`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
