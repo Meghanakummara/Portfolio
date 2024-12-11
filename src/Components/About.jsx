@@ -10,6 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
+ // eslint-disable-next-line prettier/prettier
  * directory and import here for use. Then, set imageAltText to string that 
  * represents what you see in that image.
  *
