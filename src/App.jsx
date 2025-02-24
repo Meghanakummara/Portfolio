@@ -27,7 +27,7 @@ const siteProps = {
   name: "Kummara Meghana",
   title: "Front-end web developer ",
   email: "kummarameghana@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "https://github.com/Meghanakummara",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",

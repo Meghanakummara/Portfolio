@@ -45,7 +45,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "A resume is a formal document that a job applicant creates to itemize their qualifications for a position.",
-    url: "https://github.com/Meghanakummara/best-resume",
+    url: "https://github.com/Meghanakummara/RESUME",
   },
   {
     title: "Zara sales analysis",
