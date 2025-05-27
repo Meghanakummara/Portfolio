@@ -25,13 +25,13 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am an aspiring web developer with a strong foundation in HTML, CSS, and JavaScript, I have developed responsive user-friendly websites.";
+  "Motivated Computer Science student with skills in  Java, SQL, HTML, CSS and JavaScript.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["HTML", "CSS", "JAVASCRIPT", "REACT JS", "DATA ANALYSIS", "POWERBI", "PYTHON"];
+const skillsList = ["JAVA", "SQL", "HTML", "CSS", "JAVASCRIPT", "REACT JS"];
 
 /**
  * Use this to give more information about what you are passionate about,

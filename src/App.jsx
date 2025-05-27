@@ -25,12 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Kummara Meghana",
-  title: "Front-end web developer ",
+  // title: "Front-end web developer ",
   email: "kummarameghana@gmail.com",
   gitHub: "https://github.com/Meghanakummara",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
+  linkedIn: "https://www.linkedin.com/in/kummara-meghana-200b5b246",
   twitter: "microsoft",
   youTube: "Code",
 };

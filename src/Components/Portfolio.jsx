@@ -31,21 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Simple Web development projects 🎉",
+    title: "Basic todo app",
     description:
-      "User-friendly websites with simple navigation, clear design, and essential features..",
-    url: "https://github.com/Meghanakummara/OIBSIP",
+      "User-friendly website with simple navigation, clear design, and essential features..",
+    url: "https://github.com/Meghanakummara/OIBSIP/tree/main/Basic%20todo%20app",
   },
   {
-    title: "beginners project",
+    title: "Tempareture Converter",
     description: "Temperature Converter using html,css and javascript",
     url: "https://github.com/Meghanakummara/temp-converter",
   },
   {
-    title: "My Resume Site",
+    title: "Tribute Page",
     description:
-      "A resume is a formal document that a job applicant creates to itemize their qualifications for a position.",
-    url: "https://github.com/Meghanakummara/RESUME",
+      "A tribute page is a personal, non-commercial web page that honors a person, group, or event.",
+    url: "https://github.com/Meghanakummara/OIBSIP/tree/main/tribute%20page",
   },
   {
     title: "Zara sales analysis",
